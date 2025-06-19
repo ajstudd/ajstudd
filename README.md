@@ -10,7 +10,7 @@ I'm a developer who thrives on solving real-world problems efficiently. I believ
 - **Design Thinking:** Crafting intuitive and aesthetic user experiences.
 
 ### 🌍 Connect with Me:
-- **Instagram:** [ajx.me](https://www.instagram.com/ajx.me)
+- **Portfolio:** [junaid.co.in](https://www.junaid.co.in/)
 - **LinkedIn:** [junaidahmadcse](https://www.linkedin.com/in/junaidahmadcse/)
 - **LeetCode:** [ajstudd](https://leetcode.com/u/ajstudd/)
 
